@@ -1,5 +1,5 @@
 const POKEMON = [
-  {
+  { 
     height: 10,
     weight: 130,
     id: 2,
